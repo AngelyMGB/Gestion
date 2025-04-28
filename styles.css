@@ -43,7 +43,7 @@ button:hover {
     background-color: #45a049;
 }
 
-#students-list {
+#students-list, #groups-list{
     text-align: center;
 }
 
